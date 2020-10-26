@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "utente",
+      "password": "1234",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "role": "admin",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "Come va?",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "title": "Io sono un altro articolo",
+      "tags": "Va bene?",
+      "userId": 2,
+      "id": 2
+    }
+  ]
+}
